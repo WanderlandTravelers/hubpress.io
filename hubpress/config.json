@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "wanderlandtravelersgit",
-    "repositoryName": "hubpress.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"wanderlandtravelersgit","repositoryName":"hubpress.io","branch":"gh-pages"},"site":{"title":"Wanderland Travelers","description":"The ramblings of two wanderers and their two furry wanderlings","url":"https://wanderlandtravelersgit.github.io/hubpress.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//wanderlandtravelersgit.github.io/hubpress.io/themes/Casper"}}
