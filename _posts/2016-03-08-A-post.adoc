@@ -1,3 +1,5 @@
 = A post
 :hp-image: f554877432.jpg
+:hp-tags: kayak, outdoors, ocean
+
 This is the first post
