@@ -1,4 +1,6 @@
-= A post
+A post
+======
+Brad Pitcher <bradpitcher@gmail.com>
 :hp-image: f554877432.jpg
 :hp-tags: kayak, outdoors, ocean
 
